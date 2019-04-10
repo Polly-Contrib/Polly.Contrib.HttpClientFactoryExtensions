@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Polly.Contrib.BlankTemplate // Choose a namespace indicating the theme of your contrib. 
+namespace Polly.Contrib.HttpClientFactoryExtensions
 {
     /// <summary>
     /// Rename this class and build your contribution.

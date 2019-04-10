@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Contrib.BlankTemplate", "Polly.Contrib.BlankTemplate\Polly.Contrib.BlankTemplate.csproj", "{B7730E1D-0796-4151-95C3-1C6E7DE897B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Contrib.HttpClientFactoryExtensions", "Polly.Contrib.HttpClientFactoryExtensions\Polly.Contrib.HttpClientFactoryExtensions.csproj", "{B7730E1D-0796-4151-95C3-1C6E7DE897B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Contrib.BlankTemplate.Specs", "Polly.Contrib.BlankTemplate.Specs\Polly.Contrib.BlankTemplate.Specs.csproj", "{ED587F9F-BBE6-4715-9FAA-BAAEFE288A73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polly.Contrib.HttpClientFactoryExtensions.Specs", "Polly.Contrib.HttpClientFactoryExtensions.Specs\Polly.Contrib.HttpClientFactoryExtensions.Specs.csproj", "{ED587F9F-BBE6-4715-9FAA-BAAEFE288A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

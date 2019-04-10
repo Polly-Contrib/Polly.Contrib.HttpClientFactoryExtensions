@@ -26,7 +26,7 @@ using System.Text.Json;
 // GLOBAL VARIABLES
 ///////////////////////////////////////////////////////////////////////////////
 
-var projectName = "Polly.Contrib.BlankTemplate";
+var projectName = "Polly.Contrib.HttpClientFactoryExtensions";
 
 var solutions = GetFiles("./**/*.sln");
 var solutionPaths = solutions.Select(solution => solution.GetDirectory());

@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <TargetFrameworks>netcoreapp1.1;netcoreapp2.0;net462;net472</TargetFrameworks>
-    <AssemblyOriginatorKeyFile>..\Polly.Contrib.BlankTemplate.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>..\Polly.Contrib.HttpClientFactoryExtensions.snk</AssemblyOriginatorKeyFile>
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Polly.Contrib.BlankTemplate\Polly.Contrib.BlankTemplate.csproj" />
+    <ProjectReference Include="..\Polly.Contrib.HttpClientFactoryExtensions\Polly.Contrib.HttpClientFactoryExtensions.csproj" />
   </ItemGroup>
 
   <ItemGroup>
